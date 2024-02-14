@@ -12,10 +12,13 @@
 최종 분석 즈음 구조 파악이 완료되었습니다.
 (각 브랜드별 헤더부에 대한 상세내용은 코드에 명시되어있음.)
 - A브랜드 디자인 파일 구조 분석..
-- ![BS_DataStruct](https://github.com/krab84/MachineDesignConverter/assets/37202910/4e8f7777-4e07-44fb-9125-d11326833e16)
+- ![BS_DataStruct](https://github.com/krab84/PJ_YSDesignConverter/assets/37202910/cb741dd4-03ce-4ebb-865e-7940348dff31)
 
 - B브랜드 디자인 파일 구조 분석..
-- ![HJ_DataStruct](https://github.com/krab84/MachineDesignConverter/assets/37202910/eaba3e9f-f68d-4ef8-b69c-e591ddac6aa3)
+- ![HJ_DataStruct](https://github.com/krab84/PJ_YSDesignConverter/assets/37202910/2faa682c-5bb4-4a21-ac95-4f50761c1797)
+
+
+
 
 
 목표 및 계획
@@ -26,7 +29,7 @@
 
 구현 결과
 - 디자인은 성공적으로 된 것을 확인했고, 해당 파일들은 실제 프로그램에서 동작되는 것을 확인했습니다.
-![image](https://github.com/krab84/MachineDesignConverter/assets/37202910/f4b43225-df89-4ab3-8be3-2443283eb224)
+![Convert_Success_View](https://github.com/krab84/PJ_YSDesignConverter/assets/37202910/76f122e7-2a5f-42bf-8b26-b41c9333c96a)
 
 
 느낀점
